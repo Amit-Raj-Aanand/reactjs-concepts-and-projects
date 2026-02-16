@@ -1,0 +1,17 @@
+
+.firstPage{
+    background: linear-gradient(135deg, purple, indigo);
+    color:white;
+    text-align: center;
+    padding: 15px 0;
+    margin: 0;
+    font-Size: 24px;
+    font-Weight: 600;
+    letter-Spacing: 1px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2)
+  }
+.hx{
+    text-align: center;
+    color: brown;
+  }
+
